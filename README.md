@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-logo-url-here" alt="Perry5596 Logo" width="150" height="150"/>
+  <img src="https://imgur.com/a/1L73Ytf" alt="Perry5596 Logo" width="150" height="150"/>
 </div>
 
 <h1 align="center">Hi, I'm Joe</h1>
