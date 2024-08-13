@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Perry5596 Logo" width="150" height="150"/>
+  <img src="https://github.com/Perry5596/Perry5596/blob/main/assets/profile-icon.png?raw=true" alt="Perry5596 Logo" width="150" height="150"/>
 </div>
 
 <h1 align="center">Hi, I'm Joe</h1>
