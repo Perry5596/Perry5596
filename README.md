@@ -36,19 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perry5596&show_icons=true&theme=onedark" alt="Perry5596's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perry5596&theme=onedark" alt="Perry5596's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perry5596&layout=compact&theme=onedark" alt="Perry5596's Top Languages" />
-</p>
-
----
-
 ### 🌱 Currently Learning:
 
 - Data Science fundamentals preparing for my double major
