@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Perry5596&theme=onedark&no-bg=true&rank=-?" alt="Perry5596's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Perry5596&theme=onedark&no-bg=true&rank=-?&column=5" alt="Perry5596's Trophies" />
 </p>
 
 ---
