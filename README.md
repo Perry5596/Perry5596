@@ -39,7 +39,7 @@
 ### 🌱 Currently Learning:
 
 - Data Science fundamentals preparing for my double major
-- Interview stle questions to prepare for getting an internship
+- Interview style questions to prepare for getting an internship
 
 ---
 
