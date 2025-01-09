@@ -38,13 +38,15 @@
 
 ### 🌱 Currently Learning:
 
-- Data Science fundamentals preparing for my double major
+- Chat Triggers and integration with minecraft
 - Interview style questions to prepare for getting an internship
+- Applied Mathematics research for double major
 
 ---
 
 ### 💬 Ask Me About:
 
+- PerryCLient, a growing, large scale minecraft client running off of "ChatTriggers."
 - My grid searching algorithm that uses the google maps API to search for businesses within a radius of a given city.
 - Baseball
 
