@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://github.com/Perry5596/Perry5596/blob/main/assets/profile-icon.jpg?raw=true" alt="Joe Brennan Headshot" width="150" height="150"/>
+  <img
+    src="https://github.com/Perry5596/Perry5596/blob/main/assets/profile-icon.jpg?raw=true"
+    alt="Joe Brennan Headshot"
+    style="border-radius: 50%; width: 200px; height: 200px;"
+  />
 </div>
+
 
 <h1 align="center">Hi, I'm Joe Brennan 👋</h1>
 
