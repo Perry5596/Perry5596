@@ -15,51 +15,110 @@
     <img src="https://img.shields.io/badge/Email-jdbrennan07@gmail.com-orange?logo=gmail" />
   </a>
   <a href="https://luminasoftware.app">
-    <img src="https://img.shields.io/badge/Lumina%20Software-Website-111111?logo=google-chrome&logoColor=white" alt="Lumina Software Website"/>
+    <img src="https://img.shields.io/badge/Lumina%20Software-Website-111111?logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
-## 🚀 About Me
+---
 
-I’m a **Computer Science & Engineering student** focused on building **real, production-ready AI products** alongside my academic work.
+# 🚀 About Me
 
-I’m the founder of **Lumina Software LLC**, where I design, build, and ship AI-powered applications—from system architecture and agent design to App Store deployment and subscriptions.
+I’m a **Computer Science & Engineering student** focused on building **real software products and AI systems that generate revenue**.
 
-My interests sit at the intersection of:
-- **Agentic AI systems**
-- **Mobile-first application development**
-- **Scalable backend architecture**
-- **Product-driven engineering**
+Alongside my academic work, I run **Lumina Software LLC**, where I design and ship AI-driven applications, mobile products, and automation systems.
 
-## 🏢 Lumina Software LLC
+My work spans across:
+
+- **AI-powered SaaS products**
+- **Mobile application development**
+- **Business automation systems**
+- **AI integrations for small businesses**
+- **Revenue-generating software products**
+
+I focus heavily on **execution**, shipping products that solve real problems rather than building theoretical projects.
+
+---
+
+# 🏢 Lumina Software LLC
 
 **Founder**
 
-Lumina Software is where I turn ideas into shipped products. I focus on building AI-powered tools that solve real problems and can scale beyond prototypes.
+Lumina Software is where I build and launch AI-driven software products.  
+The goal is simple: create tools that deliver real value and can scale beyond prototypes.
 
-**Primary areas of focus:**
-- AI-driven productivity and planning tools  
-- Cross-platform mobile apps (iOS-first)  
-- Subscription-based SaaS products  
-- Long-term, maintainable system design  
+🔗 https://luminasoftware.app
 
-## 🌟 Featured Project
+Core areas of focus:
 
-### **Project 365 – AI Planning & Accountability**
-**Status:** ✅ *Live on the App Store*
+- AI-powered consumer applications  
+- Cross-platform mobile products (iOS & Android)  
+- Subscription-based SaaS systems  
+- AI agents and automation infrastructure  
+- Scalable backend architecture
 
-Project 365 is an AI-powered goal planning and accountability platform designed to help users achieve **any goal within 365 days** using science-backed planning and adaptive AI guidance.
+Several Lumina products are **already generating revenue**, validating the model of building small, focused AI tools.
 
-**Highlights:**
-- Agentic AI that adapts plans over time  
-- Daily action breakdowns from high-level goals  
-- Built with React Native + Expo  
-- Subscription-based SaaS with real users  
+---
 
-🔗 **View the project:**  
-👉 https://project365.luminasoftware.app
+# 🧠 Lumina Systems
 
-## 🛠️ Tech Stack & Tools
+**Automation & Web Infrastructure for Small Businesses**
+
+Lumina Systems is a service division focused on implementing **AI automation and conversion systems for businesses**.
+
+🔗 https://luminasystems.org
+
+Typical implementations include:
+
+- Lead generation funnels
+- AI-powered website chat systems
+- Review generation funnels
+- Missed-call text back systems
+- CRM automation
+- AI-assisted customer response workflows
+
+The focus is on installing **systems that directly increase revenue and reduce manual work** for businesses.
+
+---
+
+# 🌟 Featured Products
+
+## Shop AI — AI Shopping & Product Discovery
+**Status:** Live • Revenue Generating
+
+Shop AI is a visual product discovery platform that allows users to find products using AI-powered search.
+
+The system integrates:
+
+- AI-based product discovery
+- Affiliate monetization
+- Price comparison workflows
+- Retail integrations
+
+The goal is to simplify how users **discover and purchase products online** while building a scalable affiliate platform.
+
+🔗 https://shopai.luminasoftware.app
+
+---
+
+## Project 365 — AI Goal Planning Platform
+**Status:** Live • Revenue Generating
+
+Project 365 is an AI-powered planning platform designed to help users accomplish **any goal within 365 days**.
+
+Key features:
+
+- AI-generated long-term goal plans
+- Daily execution breakdowns
+- Adaptive AI accountability
+- Subscription-based SaaS model
+- Built with React Native + Expo
+
+🔗 https://project365.luminasoftware.app
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -68,34 +127,55 @@ Project 365 is an AI-powered goal planning and accountability platform designed 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🧠 Current Focus
+---
 
-- Agentic AI & tool-using systems  
-- React Native + Expo at production scale  
-- AI-powered SaaS architecture  
-- Bridging academic theory with real-world products  
+# 📈 Current Focus
 
-## 🧪 Other Projects
+Currently exploring and building in three areas:
 
-- **Lectern** – AI-powered student management system integrated with Canvas  
-- **HIM** – Personalized AI-driven Bible study and learning app  
-- **Influencer IQ** – AI-based influencer marketing analytics platform  
-- **PerryClient** – Advanced Minecraft client for Hypixel Skyblock (ChatTriggers)  
-- **Acquire** – Business lead acquisition tool using Google Maps data  
+**AI Product Development**
+- Agentic AI systems
+- AI-assisted decision systems
+- AI SaaS platforms
 
-## 💬 Ask Me About
+**Automation Systems**
+- AI-powered business workflows
+- Revenue automation
+- CRM + funnel integrations
 
-- Agentic AI & applied LLM systems  
-- Building real products as a CS student  
-- React Native / Expo  
-- Software entrepreneurship  
+**Product Execution**
+- Shipping production apps
+- Monetization models
+- Distribution and sales systems
 
-## 🤝 Let’s Connect
+---
+
+# 🧪 Other Projects
+
+- **Lectern** — AI-powered student management platform integrated with Canvas  
+- **HIM** — AI-powered Bible study and learning platform  
+- **Influencer IQ** — AI analytics platform for influencer marketing  
+- **Acquire** — Business lead acquisition platform using location-based data  
+- **PerryClient** — Custom Minecraft client built for Hypixel Skyblock
+
+---
+
+# 💬 Ask Me About
+
+- Building AI-powered SaaS products  
+- Revenue-first software development  
+- React Native + Expo mobile apps  
+- AI automation systems for businesses  
+- Product-focused engineering
+
+---
+
+# 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josephdbrennan/">
