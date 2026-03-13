@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/josephdbrennan/">
     <img src="https://img.shields.io/badge/LinkedIn-Joe%20Brennan-blue?logo=linkedin" />
   </a>
-  <a href="mailto:jdbrennan07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jdbrennan07@gmail.com-orange?logo=gmail" />
+  <a href="mailto:joe.brennan@luminasoftware.app">
+    <img src="https://img.shields.io/badge/Email-joe.brennan@luminasoftware.app-orange?logo=gmail" />
   </a>
   <a href="https://luminasoftware.app">
     <img src="https://img.shields.io/badge/Lumina%20Software-Website-111111?logo=google-chrome&logoColor=white"/>
@@ -181,7 +181,7 @@ Currently exploring and building in three areas:
   <a href="https://www.linkedin.com/in/josephdbrennan/">
     <img src="https://img.shields.io/badge/LinkedIn-Joe%20Brennan-blue?logo=linkedin" />
   </a>
-  <a href="mailto:jdbrennan07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jdbrennan07@gmail.com-orange?logo=gmail" />
+  <a href="mailto:joe.brennan@luminasoftware.app">
+    <img src="https://img.shields.io/badge/Email-joe.brennan@luminasoftware.app-orange?logo=gmail" />
   </a>
 </p>
